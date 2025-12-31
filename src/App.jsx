@@ -14,7 +14,7 @@ function App() {
       <Link to="/ser"> service</Link>
       <Link to="/about"> about</Link>
       <Link to="/con"> contact</Link>
-       
+       <h2>sample git routing</h2>
        <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/con' element={<Contact />} />
